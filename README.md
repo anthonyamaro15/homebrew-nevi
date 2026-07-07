@@ -13,6 +13,13 @@ brew tap anthonyamaro15/nevi
 brew install nevi
 ```
 
+Update Nevi after a new release:
+
+```bash
+brew update
+brew upgrade nevi
+```
+
 Verify the installed binary:
 
 ```bash
