@@ -1,8 +1,8 @@
 class Nevi < Formula
   desc "Fast, Neovim-inspired terminal editor"
   homepage "https://github.com/anthonyamaro15/nevi"
-  url "https://github.com/anthonyamaro15/nevi/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "9c51c1ce666f7bad7e522894d5f485faadf9f91087fe5179fcb8dd14272805b8"
+  url "https://github.com/anthonyamaro15/nevi/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "ce57794e1ccf7e24757186d92c1e0a60cc9acde6c415b32744dd6589f830f4fc"
   license "MIT"
   head "https://github.com/anthonyamaro15/nevi.git", branch: "master"
 
